@@ -1,0 +1,2 @@
+# edadil
+Get sale lists
